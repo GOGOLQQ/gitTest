@@ -16,9 +16,9 @@ The test file for Git
 >低头思故乡
 
 
-~~~
-let str = "这是代码引用";
+>     
+	let str = "这是代码引用";
 
-module.exports ={str}
+	module.exports ={str}  
 
-~~~
+
