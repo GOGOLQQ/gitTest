@@ -18,6 +18,6 @@ The test file for Git
 ``` javascript
 // 注意前面有空格
 let autoAlert(time){
-	setTimeout(()=>{alert("hello git")},time || 3000)
+  setTimeout(()=>{alert("hello git")},time || 3000)
 }
 ```
