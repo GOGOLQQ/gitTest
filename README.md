@@ -15,10 +15,9 @@ The test file for Git
 >举头望明月  
 >低头思故乡
 
->     代码块
->     
->     let str = "这是代码引用";
->     
->     module.exports ={str}  
-
-
+``` javascript
+// 注意前面有空格
+let autoAlert(time){
+	setTimeout(()=>{alert("hello git")},time || 3000)
+}
+```
