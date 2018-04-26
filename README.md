@@ -1,4 +1,4 @@
-The test file for Git
+Test file for Git
 ==============================
 # Hello Git
 ## 这是一个测试仓库
